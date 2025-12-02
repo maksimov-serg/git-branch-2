@@ -1,0 +1,112 @@
+    1  git config --global user.name
+    2  git config --global user.name "maksimov-serg"
+    3  git config --global user.name "maksimov-serg"
+    4  git config --global user.email "sergmaks0606@gmail.com
+    5  git config --global user.email "sergmaks0606@gmail.com"
+    6  git config --global --list
+    7  git config --global --list
+    8  git config --global user.email "sergmaks0606@gmail.com"
+    9  git config --global --list
+   10  clear
+   11  git config --global --list
+   12  clear
+   13  git config --global --list
+   14  clear
+   15  git config --global init.defaultBranch main
+   16  git config --global core.autocrlf true
+   17  git config --global core.safecrlf warn
+   18  cd [200~C:\Users\Admin\Downloads\githowto\githowto\repositories~
+   19  mkdir work
+   20  cd work
+   21  touch hello.html
+   22  git irit
+   23  git init
+   24  git add hello.html
+   25  git commit -m "Initial Commit"
+   26  C:\Users\Admin\Downloads\githowto\githowto\repositories
+   27  clear
+   28  git config --global --list
+   29  mkdir work
+   30  rm -r work
+   31  cd work
+   32  touch hello.html
+   33  code hello html
+   34  code hello.html
+   35  cat hello.html
+   36  git init
+   37  git add hello.html
+   38  git commit -m "Initial Commit"
+   39  git status
+   40  git status
+   41  git add
+   42  git add hello.html
+   43  git status
+   44  git commit
+   45  g
+   46  git status
+   47  git clone https://github.com/maksimov-serg/html-starterr.git
+   48  cd html-starterr
+   49  git rm -r *
+   50  copy C:\Users\Admin\Desktop\diplom\Scooters\ * 
+   51  cd html-starterr
+   52  cd
+   53  cd C:\Users\Admin\Desktop
+   54  cd C:\Users\Admin\Desctop\Scooters
+   55  dir C:cd Users
+   56  git status
+   57  ssh ec2-user@linux.itcareerhub.de
+   58  ssh ec2-user@linux.itcareerhub.de
+   59  git clone https://github.com/maksimov-serg/new-repository
+   60  cd new-repository
+   61  git branch feature1
+   62  git branch feature2
+   63  mkdir Fork
+   64  cd Fork
+   65  git clone git@github.com:maksimov-serg/Fork-Test.git
+   66  cd Fork-Test/
+   67  git checkout Develop
+   68  git branch v
+   69  cd
+   70  mkdir New_repository_Fork
+   71  cd New_repository_Fork/
+   72  git clone git@github.com:maksimov-serg/Test-Fork-190925.git
+   73  git branch
+   74  ls -al
+   75  cd Test-Fork-190925/
+   76  git checkout -b Test_branch
+   77  date > Sergmax.txt
+   78  git add .
+   79  git commit -m "Commit test"
+   80  ls
+   81  git push
+   82  git push --set-upstream origin Test_branch
+   83  cd
+   84  mkdir git-branch
+   85  cd git-branch/
+   86  git init
+   87  git checkout -b gitignore
+   88  touch .gitignore
+   89  nano .gitignore
+   90  git add .gitignore
+   91  git commit -m "Add .gitignore file"
+   92  git remote add origin git@github.com:maksimov-serg/git-branch.git
+   93  git push -u origin gitignore
+   94  ssh ec2-user@linux.itcareerhub.de
+   95  cd
+   96  git clone git@github.com:maksimov-serg/git-branch-2.git
+   97  cd git-branch-2
+   98  git checkout -b feature
+   99  touch README.md
+  100  ls
+  101  nano READMY.md
+  102  nano .gitignore
+  103  git status
+  104  git add .
+  105  git commit -m "Update README and .gitignore in feature branch"
+  106  git push -u origin feature
+  107  git commit --amend -m "Update README and .gitignore in feature branch (ammend)"
+  108  git push --force-with-lease
+  109  git checkout main
+  110  git merge feature
+  111  git push origin main
+  112  history > history.txt
